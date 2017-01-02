@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Users\aelaiwat\Documents\visual studio 2015\Projects\MongoDbBackup\MongoDbBackupService\bin\Debug\MongoDbBackupService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\aelaiwat\Documents\visual studio 2015\Projects\MongoDbBackup\MongoDbBackupService\bin\Debug\MongoDbBackupService.InstallLog
+   assemblypath = C:\Users\aelaiwat\Documents\visual studio 2015\Projects\MongoDbBackup\MongoDbBackupService\bin\Debug\MongoDbBackupService.exe
+   logtoconsole = 
+Installing service MongoDbBackup...
+Service MongoDbBackup has been successfully installed.
+Creating EventLog source MongoDbBackup in log Application...
+Committing assembly 'C:\Users\aelaiwat\Documents\visual studio 2015\Projects\MongoDbBackup\MongoDbBackupService\bin\Debug\MongoDbBackupService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\aelaiwat\Documents\visual studio 2015\Projects\MongoDbBackup\MongoDbBackupService\bin\Debug\MongoDbBackupService.InstallLog
+   assemblypath = C:\Users\aelaiwat\Documents\visual studio 2015\Projects\MongoDbBackup\MongoDbBackupService\bin\Debug\MongoDbBackupService.exe
+   logtoconsole = 

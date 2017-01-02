@@ -1,0 +1,9 @@
+c:\users\aelaiwat\documents\visual studio 2015\Projects\MongoDbBackup\MongoDbBackupService\bin\Debug\MongoDbBackupService.exe.config
+c:\users\aelaiwat\documents\visual studio 2015\Projects\MongoDbBackup\MongoDbBackupService\bin\Debug\MongoDbBackupService.exe
+c:\users\aelaiwat\documents\visual studio 2015\Projects\MongoDbBackup\MongoDbBackupService\bin\Debug\MongoDbBackupService.pdb
+c:\users\aelaiwat\documents\visual studio 2015\Projects\MongoDbBackup\MongoDbBackupService\obj\Debug\MongoDbBackupService.csprojResolveAssemblyReference.cache
+c:\users\aelaiwat\documents\visual studio 2015\Projects\MongoDbBackup\MongoDbBackupService\obj\Debug\MongoDbBackupService.MongoDbBackup.resources
+c:\users\aelaiwat\documents\visual studio 2015\Projects\MongoDbBackup\MongoDbBackupService\obj\Debug\MongoDbBackupService.ProjectInstaller.resources
+c:\users\aelaiwat\documents\visual studio 2015\Projects\MongoDbBackup\MongoDbBackupService\obj\Debug\MongoDbBackupService.csproj.GenerateResource.Cache
+c:\users\aelaiwat\documents\visual studio 2015\Projects\MongoDbBackup\MongoDbBackupService\obj\Debug\MongoDbBackupService.exe
+c:\users\aelaiwat\documents\visual studio 2015\Projects\MongoDbBackup\MongoDbBackupService\obj\Debug\MongoDbBackupService.pdb
